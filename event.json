@@ -1,0 +1,13 @@
+  {
+    "Records": [{
+        "cf": {
+            "request":{
+                "uri": "/summer-camp/camp-usa",
+                "headers":{
+                    "host":[{
+                        "value": "bunac.org"
+                }]}
+            }
+        }
+    }]
+  }
